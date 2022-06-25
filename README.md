@@ -1,1 +1,1 @@
-Link to live: https://github.com/PELUMIJOY/java-display
+Link to live: https://pelumijoy.github.io/java-display/
